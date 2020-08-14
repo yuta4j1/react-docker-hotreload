@@ -1,0 +1,3 @@
+# react-docker-hotreload
+
+webpack-dev-serverを使ってDockerコンテナで立ち上げたアプリをホットリロードするサンプルリポジトリ
